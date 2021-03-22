@@ -1,12 +1,13 @@
 ## Java基础部分
-##目录
+## 目录  
+
 [string]: <https://github.com/luocx/java-notebook/blob/main/docs/java-basis.md#stringstringbuilderstringbuffer>
-[hashmap]: <https://github.com/luocx/java-notebook/blob/main/docs/java-basis.md#map接口的实现hashmaptreemap>
-[collection]: <https://github.com/luocx/java-notebook/blob/main/docs/java-basis.md#collection接口的实现-arraylistlinkedlist>
-[io]: <https://github.com/luocx/java-notebook/blob/main/docs/java-basis.md#>
-[thread]: <https://github.com/luocx/java-notebook/blob/main/docs/java-basis.md#>
-[aqs]: <https://github.com/luocx/java-notebook/blob/main/docs/java-basis.md#>
-[reflection]: <https://github.com/luocx/java-notebook/blob/main/docs/java-basis.md#>
+[hashmap]: <https://github.com/luocx/java-notebook/blob/main/docs/java-basis.md#map接口的实现hashmaptreemap>  
+[collection]: <https://github.com/luocx/java-notebook/blob/main/docs/java-basis.md#collection接口的实现-arraylistlinkedlist>  
+[io]: <https://github.com/luocx/java-notebook/blob/main/docs/java-basis.md#>  
+[thread]: <https://github.com/luocx/java-notebook/blob/main/docs/java-basis.md#>  
+[aqs]: <https://github.com/luocx/java-notebook/blob/main/docs/java-basis.md#>  
+[reflection]: <https://github.com/luocx/java-notebook/blob/main/docs/java-basis.md#>  
 
 1. [String、StringBuilder、StringBuffer][string]
 2. [Map接口的实现：HashMap、TreeMap][hashmap]
