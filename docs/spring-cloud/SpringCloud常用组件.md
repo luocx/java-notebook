@@ -25,5 +25,6 @@
 * spring-cloud-openfeign
 
 ## 负载均衡
+* spring-cloud-loadbalancer
 
 ## 断路器
